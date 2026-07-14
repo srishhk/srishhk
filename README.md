@@ -10,7 +10,8 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 BTech CSE (AI & ML) student at K.R. Mangalam University
+- 🎓 BTech CSE (AI & ML) student at K.R. Mangalam University — CGPA 8.85
+- 💼 Web Developer Intern @ Indrav — a healthcare technology startup
 - 🧠 Currently building **AutoDebugAI** — an ML pipeline that predicts bug risk in GitHub pull requests
 - 🌐 Also into full-stack development — React.js, Next.js, Node.js
 - 🚀 Always shipping something new — check out my pinned repos below
@@ -31,11 +32,21 @@
 
 <br>
 
+### 🚀 Featured Projects
+
+**[AutoDebugAI](https://github.com/srishhk/AutoDebugAI)** — an end-to-end ML pipeline that predicts bug risk in GitHub pull requests. Trained and benchmarked 4 classifiers (best: Random Forest, 0.71 AUC), explains predictions with SHAP, and serves live risk scores through a FastAPI + Streamlit app.
+`Python` `scikit-learn` `sentence-transformers` `SHAP` `FastAPI` `Streamlit` `GitHub REST API`
+
+**[PromptData](https://promptdata.vercel.app/)** — a full-stack AI app that turns natural language prompts into structured, exportable datasets (CSV, JSON, Excel, SQL).
+`Next.js` `React` `FastAPI` `Python` `Pandas` `Tailwind CSS`
+
+<br>
+
 ### 🛠️ Languages & Frameworks
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=cpp,py,js,html,css,react,nextjs,nodejs,flask,fastapi,tailwind,mysql,git,github,vscode,vite,jupyter&theme=light)
+![Skills](https://skillicons.dev/icons?i=cpp,py,js,html,css,react,nextjs,nodejs,flask,fastapi,tailwind,git,github,vscode,vite,jupyter&theme=light)
 
 </div>
 
@@ -68,10 +79,20 @@
 
 <div align="center">
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
+
+<br>
+
+### 📜 Certifications
+
+- [Big Data Engineer](https://drive.google.com/file/d/1CAf4LcKrJpUauWwL4hLKXWNA8gcZBsUL/view?pli=1)
+- [Data Analysis with Python](https://drive.google.com/file/d/1NBYma2ActthAmn0dIGUrXIzBChKx-TkF/view)
+- [Machine Learning and Pattern Recognition](https://drive.google.com/file/d/1nhT3B9x_Dzg6Egs18Ki-waHeSAK3dQBt/view)
+- [Neural Networks](https://drive.google.com/file/d/1BCeUM2h0eBHgI971Jvj7BS7nAu7O1bAI/view?usp=sharing)
 
 <br>
 
@@ -86,15 +107,13 @@
 
 </div>
 
-### 🏆 Trophies
+### 📅 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=srishhk&theme=flat&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srishhk&bg_color=ffffff&color=333333&line=FF6B9C&point=4D96FF&area=true&area_color=FFD93D&hide_border=true" width="90%" />
 
 </div>
-
-<br>
 
 <div align="center">
 
