@@ -100,10 +100,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srishhk&show_icons=true&hide_border=true&count_private=true&title_color=FF6B9C&icon_color=4D96FF&text_color=333333&bg_color=ffffff" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=srishhk&hide_border=true&background=ffffff&ring=FF6B9C&fire=FFD93D&currStreakLabel=4D96FF&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=999999" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srishhk&layout=donut&hide_border=true&title_color=FF6B9C&text_color=333333&bg_color=ffffff" width="45%" />
+<img src="https://streak-stats.demolab.com/?user=srishhk&hide_border=true&background=ffffff&ring=FF6B9C&fire=FFD93D&currStreakLabel=4D96FF&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=999999" width="60%" />
 
 </div>
 
@@ -122,5 +119,7 @@
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4D96FF,50:FFD93D,100:FF6B9C&section=footer" width="100%"/>
+
+</div>
 
 </div>
